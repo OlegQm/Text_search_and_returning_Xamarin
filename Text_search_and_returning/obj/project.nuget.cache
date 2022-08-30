@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TACETSj5fNM3bgEgBbH7cXSWq53MskbxpU9bKtGO6vvMVWXrgNUs6lOh/xDUvdtNaEcLkGZj3WaeoomVah2reg==",
+  "success": true,
+  "projectFilePath": "F:\\Temp\\Text_search_and_returning\\Text_search_and_returning\\Text_search_and_returning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\plugin.toast\\2.2.0\\plugin.toast.2.2.0.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

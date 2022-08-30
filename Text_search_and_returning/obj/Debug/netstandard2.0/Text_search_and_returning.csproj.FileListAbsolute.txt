@@ -1,0 +1,16 @@
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.GeneratedMSBuildEditorConfig.editorconfig
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.AssemblyInfoInputs.cache
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.AssemblyInfo.cs
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.csproj.CoreCompileInputs.cache
+F:\Temp\Text_search_and_returning\Text_search_and_returning\bin\Debug\netstandard2.0\Text_search_and_returning.deps.json
+F:\Temp\Text_search_and_returning\Text_search_and_returning\bin\Debug\netstandard2.0\Text_search_and_returning.dll
+F:\Temp\Text_search_and_returning\Text_search_and_returning\bin\Debug\netstandard2.0\ref\Text_search_and_returning.dll
+F:\Temp\Text_search_and_returning\Text_search_and_returning\bin\Debug\netstandard2.0\Text_search_and_returning.pdb
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.dll
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\ref\Text_search_and_returning.dll
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.pdb
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Text_search_and_returning.csproj.AssemblyReference.cache
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\Views\TextEditing.xaml.g.cs
+F:\Temp\Text_search_and_returning\Text_search_and_returning\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

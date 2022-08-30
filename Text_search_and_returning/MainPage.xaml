@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Text_search_and_returning.MainPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Hi, this is your app! Click 'Start' to open text editing"/>
+            <Button x:Name="GoToTextEditingPage" Clicked="GoToTextEditingPage_Clicked" Text="Start"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
